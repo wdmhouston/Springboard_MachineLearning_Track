@@ -1,3 +1,6 @@
 [submodule "submodule1"]
 	path = submodule1
 	url = https://github.com/wdmhouston/submodule1
+[submodule "capstone_project_fruit_prediction"]
+	path = capstone_project_fruit_prediction
+	url = https://github.com/wdmhouston/capstone_project_fruit_prediction.git
